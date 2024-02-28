@@ -61,12 +61,13 @@ Front-end and Web Developer
   
 ### Badges 
 
-<b>My GitHub Stats</b>
+
+
+# 📊 GitHub Stats:
 
 <a href="https://github.com/Mehdi-njfn" align="left"><img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdi-njfn&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mehdi-njfn&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mehdi-njfn&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehdi-njfn&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
