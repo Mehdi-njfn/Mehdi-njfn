@@ -84,5 +84,5 @@ Front-end and Web Developer
 ---
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mehdi-njfn&label=Profile%20views&color=fe428e&style=plastic" alt="MobinaJafarian" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mehdi-njfn&label=Profile%20views&color=fe428e&style=plastic" alt="MehdiNajafian" /></p>
 
