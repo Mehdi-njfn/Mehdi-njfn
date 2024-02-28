@@ -34,7 +34,6 @@ Front-end and Web Developer
 
 *   🤝  I'm open to collaborating on interesting projects as a frontend and web developer.
 📫 You can contact me at najafianmehdi2000@gmail.com
-
 <br/>
                   
 ### Skills
@@ -50,8 +49,7 @@ Front-end and Web Developer
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" padding="0"/></a>
   
-</p>
-      <br/>     
+</p> <br/>     
       
 ### Socials
                   
@@ -61,7 +59,8 @@ Front-end and Web Developer
 <a href="https://www.github.com/Mehdi-njfn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
   <a href="https://www.github.com/Mehdi-njfn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
 <a href="https://wa.me/+989232711739"><img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" width="32" height="32" /></a>
-  <br/>
+  
+  <br/><br/>
   
 ### Badges 
 
